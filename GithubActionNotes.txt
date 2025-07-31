@@ -21,3 +21,4 @@ GitHub Repositories :
 - cloud storage for your repositories-> backup, cross device usage,collaboration
 git remote add origin
 git push origin
+you can generate a token to push the code to remote repository
