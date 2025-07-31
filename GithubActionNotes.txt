@@ -1,0 +1,23 @@
+github is a cloud repository
+coder management
+automation CI/CD
+
+MyPass$Auth01
+
+git config --global user.name "your-username"
+git config --global user.email "your-email"
+git add, git commit, git status , git branch, git log
+git revert<cid>, git checkout<cid>, git reset<cid>
+
+.gitignore--> mention the files that u dont want to be commited
+git branch <branch-name> - create a branch
+git branch -> gives all the branches
+git checkout <branch-name> -swith to new branch
+git branch -D <branch-name> -deletes the branch
+git checkout -b <branch-name> - creaets new branch and swich to the branch
+git merge feature (checkout main branch) -> will merges the changes from feature branch to main branch
+-----------------------------------
+GitHub Repositories :
+- cloud storage for your repositories-> backup, cross device usage,collaboration
+git remote add origin
+git push origin
